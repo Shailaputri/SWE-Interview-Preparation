@@ -1,4 +1,4 @@
-August 2022 : This repository contains all codes from practice sets of Codeforces, HackerRank, Leetcode, G4G, HackerEarth divided into topics. 
+August 2022 : This repository contains all codes from practice sets of Codeforces, HackerRank, Leetcode, G4G, HackerEarth divided into topics. Find notes [here](https://drive.google.com/drive/folders/1SxJ-9OugzCqOfXXFvBOz0hu8QYzSf393)
 
 January 2022 : In this repository I shall put all HackerRank-Practice codes. Find the list in Table of Contents.
 
