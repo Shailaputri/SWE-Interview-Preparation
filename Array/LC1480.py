@@ -1,5 +1,5 @@
 
-'''LC - 1418 - Running sum of 1D Array
+'''LC - 1480 - Running sum of 1D Array
 Remember, using ele in for loop does not change the array. 
 Whereas using index, changes the array'''
 
