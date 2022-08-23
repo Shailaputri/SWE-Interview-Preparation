@@ -7,13 +7,15 @@ A = [1,2,3,4]
 for ele in A:
 	ele = ele + 1
 print (A)
-
+#In above for loop, input array does not change. 
 i = 1
 while i < len(A):
 	A[i] += 1
 	i += 1
 print(A)
+#In above for loop, input array changes. 
 
+#------------------------------LC1418--------------------
 def runningSum(A):
 	i = 1
 	while (i<len(A)):
