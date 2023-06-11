@@ -1,8 +1,8 @@
-August 2022 : This repository contains all codes from practice sets of Codeforces, HackerRank, Leetcode, G4G, HackerEarth divided into topics. Find notes [here](https://drive.google.com/drive/folders/1SxJ-9OugzCqOfXXFvBOz0hu8QYzSf393)
+August 2022 : Started DSA coding.
 
-January 2022 : In this repository I shall put all HackerRank-Practice codes. Find the list in Table of Contents.
+January 2022 : Onboarded Kaggle.
 
-October 2021 : This is my first respository to learn to navigate GitHub. I am learning branching in GitHub over here. My aim is to fast track my learning of Python, Statistics, R, SQL and dive into web development, data analysis as quickly as possible.
+October 2021 : This is my first respository to learn to navigate GitHub.
 
 
 
