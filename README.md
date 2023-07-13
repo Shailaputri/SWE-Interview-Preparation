@@ -1,5 +1,4 @@
-July 2023 : In top 10% of learners in Scaler    
-[Scaler profile](https://www.scaler.com/academy/profile)   &nbsp; 
+July 2023 : In top 10% of learners in Scaler [Scaler profile](https://www.scaler.com/academy/profile)   &nbsp; 
 ![Alt text](KaggleCertis/scaler.png?raw=true)&nbsp; 
 
 
