@@ -1,5 +1,8 @@
-August 2022 : Started DSA coding.
-https://www.scaler.com/academy/profile
+July 2023 : In top 10% of learners in Scaler
+![Alt text](KaggleCertis/scaler.png?raw=true)&nbsp; 
+
+
+August 2022 : Started DSA coding. [Scaler profile](https://www.scaler.com/academy/profile)
 
 
 January 2022 : Onboarded Kaggle.
